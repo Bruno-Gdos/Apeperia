@@ -1,4 +1,4 @@
-# Bruno's Barber
+# Apeperia
 
 Site com o intuito de praticar HTML e CSS responsivo utilizando o metodo mobile first
 
